@@ -1,6 +1,6 @@
 ### Hi there
 
-I have been studying the application of AI in a way that my interactions with it are effective, efficient, ethical, and safe.
+I have been studying the application of GenAI in a way that my interactions with it are effective, efficient, ethical, and safe.
 
 My major focus has been: Augmentation - Humans and AI collaborating as thinking partners.
 
