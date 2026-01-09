@@ -12,7 +12,7 @@ My major focus has been: Augmentation - Humans and AI collaborating as thinking 
 
 ### How I have been using GenAI
 
-I leverage Claude/Claude Code, and Codex/ChatGPT for:
+I leverage Claude/Claude Code, and ChatGPT/Codex for:
 - Prototyping decision making tools integrated with natural language feature.
 - Supply Chain and Logistics solutions design, and risk assessment.
 - Insights and discovery from data analysis.
