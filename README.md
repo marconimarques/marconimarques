@@ -6,7 +6,7 @@ My major focus has been: Augmentation - Humans and AI collaborating as thinking 
 
 ### What I Share Here
 
-- **AI Collaboration**: Tools and frameworks where AI and I work as coworkers.
+- **AI Collaboration**: Tools and frameworks where AI and I act as coworkers.
 - **Decision Support Prototypes**: AI-powered coding assistant to develop prototypes and to integrate natural language processing to foster the democratization of decision-making tools, especially in building what-if scenarios.
 - **Claude Skills & Commands**: Custom workflows that supercharge problem-solving.
 
