@@ -4,7 +4,7 @@ I have been studying the application of AI in a way that my interactions with it
 
 My major focus has been: Augmentation - Humans and AI collaborating as thinking partners.
 
-### What I Share Here
+### What I share here
 
 - **AI Collaboration**: Tools and frameworks where AI and I act as coworkers.
 - **Decision Support Prototypes**: AI-powered coding assistant to develop prototypes and to integrate natural language processing to foster the democratization of decision-making tools, especially in building what-if scenarios.
