@@ -1,4 +1,4 @@
-# Hi there
+### Hi there
 
 I have been studying the application of AI in a way that my interactions with it are effective, efficient, ethical, and safe.
 
