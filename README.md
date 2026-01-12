@@ -14,9 +14,8 @@ My major focus has been: Augmentation - Humans and AI collaborating as thinking 
 
 I leverage Claude/Claude Code, and ChatGPT/Codex for:
 - Prototyping decision making tools integrated with natural language feature.
-- Supply Chain and Logistics solutions design, and risk assessment.
+- Supply Chain/Logistics solutions design, and risk assessment.
 - Insights and discovery from data analysis.
-- Strategic scenario modeling.
-- Problem solving.
+- Decision framing and execution under uncertainty using GenAI (ambiguity dissection, tradeoff analysis).
 
 **Let's connect: [LinkedIn](https://www.linkedin.com/in/marconimarques/)**
