@@ -12,7 +12,7 @@ My major focus has been: Augmentation - Humans and AI collaborating as thinking 
 
 ### How I have been using GenAI
 
-I leverage Claude/Claude Code, and ChatGPT/Codex for:
+I leverage Anthropic/Claude Code, and OpenAI/Codex for:
 - Prototyping decision making tools integrated with natural language feature, and agent orchestration.
 - Supply Chain/Logistics solutions design, and risk assessment.
 - Decision framing and execution under uncertainty using GenAI (ambiguity dissection, tradeoff analysis).
