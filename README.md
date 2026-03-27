@@ -18,4 +18,4 @@ I leverage Anthropic/Claude Code, and OpenAI/Codex for:
 - Decision framing and execution using GenAI (e.g.: strategy design, tradeoff analysis).
 - Navigate supply chain/logistics projects implementing discovery-delivery tracks, and bi-weekly sprint planning.
 
-**Let's connect: [LinkedIn](https://www.linkedin.com/in/marconimarques/)**
+**[LinkedIn](https://www.linkedin.com/in/marconimarques/)**
