@@ -13,7 +13,7 @@ I have been studying the application of GenAI in a way that my interactions with
 ### How I have been using GenAI
 
 I leverage Anthropic/Claude Code, and OpenAI/Codex for:
-- Prototyping decision making tools integrated with natural language feature, and agents .
+- Prototyping decision making tools integrated with natural language feature, and agents.
 - Supply Chain/Logistics solutions design, and risk assessment.
 - Decision framing and execution using GenAI (e.g.: strategy design, tradeoff analysis).
 - Navigate supply chain/logistics projects implementing discovery-delivery tracks, and bi-weekly sprint planning.
