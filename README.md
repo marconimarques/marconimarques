@@ -9,7 +9,7 @@ Not just AI that chats. AI that decides.
 ### What I share here
 
 - **Decision Support Prototypes**: Projects where you describe a problem in plain English and get back an optimal answer. Real solvers, real decisions.
-- **Skills & Commands**: Custom workflows I've built to stay productive with AI agents.
+- **Skills & Commands**: Custom workflows I've built to stay productive with AI.
 - **My Learnings**:  Experiments, frameworks I've stress-tested, dead ends, and what actually works when you push LLMs and solvers together.
 
 **[LinkedIn](https://www.linkedin.com/in/marconimarques/)**
