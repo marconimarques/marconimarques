@@ -8,6 +8,6 @@ My current research sits at the intersection of generative AI and mathematical o
 
 - **Decision Support Prototypes**: Tools that combine LLMs and optimization solvers to build accessible what-if scenario analyses bringing decision-making capabilities to a wider audience.
 - **Skills & Commands**: Custom workflows to boost productivity with AI-powered agents.
-- **My Learnings**:  Notes from my journey at the intersection of LLMs and solvers — agent frameworks, experiments, and lessons along the way.
+- **My Learnings**:  Notes from my journey at the intersection of LLMs and solvers - agent frameworks, experiments, and lessons along the way.
 
 **[LinkedIn](https://www.linkedin.com/in/marconimarques/)**
