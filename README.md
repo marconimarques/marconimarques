@@ -3,7 +3,7 @@
 I have been studying the application of GenAI in a way that my interactions with it are effective, efficient, ethical, and safe.
 
 - My major focus has been augmentation: Humans and AI collaborating as thinking partners.
-- Currently researching how to promote better decision-making and coordination in small and medium-sized Brazilian transportation business.
+- Currently researching how to democratize decision making by bringing together optimization and generative AI tools.
 
 ### What I share here
 
@@ -13,9 +13,8 @@ I have been studying the application of GenAI in a way that my interactions with
 ### How I have been using GenAI
 
 I leverage Anthropic/Claude Code, and OpenAI/Codex for:
-- Prototyping decision making tools integrated with natural language feature, and agents.
+- Prototyping decision making tools integrated with natural language feature, and agents frameworks.
 - Supply Chain/Logistics solutions design, and risk assessment.
 - Decision framing and execution using GenAI (e.g.: strategy design, tradeoff analysis).
-- Navigate supply chain/logistics projects implementing discovery-delivery tracks, and bi-weekly sprint planning.
 
 **[LinkedIn](https://www.linkedin.com/in/marconimarques/)**
