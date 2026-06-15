@@ -9,5 +9,6 @@ I have been studying the application of GenAI in a way that my interactions with
 
 - **Decision Support Prototypes**: AI-powered coding assistant to develop prototypes and to integrate natural language processing to foster the democratization of decision-making tools, especially in building what-if scenarios.
 - **Skills & Commands**: Custom workflows to booster productivity.
+- **My Learnings**: How it has been my journey trying different agents frameworks, experiments, when thinking of the intersection between LLM´s and Solvers.
 
 **[LinkedIn](https://www.linkedin.com/in/marconimarques/)**
