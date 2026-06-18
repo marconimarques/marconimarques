@@ -8,7 +8,7 @@ Not just AI that chats. AI that decides, and accessible to non-operations resear
 
 ### What I share here
 
-- **Decision Support Prototypes**: Projects where you describe a problem in plain English and get back an optimal answer. Real solvers, real decisions.
+- **Decision Support Prototypes**: Projects where you describe your scenario in plain English and get back an optimal answer. Real solvers, real decisions.
 - **Skills & Commands**: Custom workflows I've built to stay productive with GenAI.
 - **My Learnings**:  Experiments, frameworks I've stress-tested, dead ends, and what actually works when you push LLMs and solvers together.
 
