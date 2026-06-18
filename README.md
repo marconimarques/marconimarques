@@ -4,7 +4,7 @@ What if anyone could talk to a solver?
 
 That's the question I keep coming back to. Then, I have been studying the intersection of LLMs and mathematical optimization seeking to figuring out how natural language can become the front door to powerful decision-making engines.
 
-Not just AI that chats. AI that decides.
+Not just AI that chats. AI that decides, and accessible to non-operations research professionals.
 
 ### What I share here
 
