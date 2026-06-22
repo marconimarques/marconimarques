@@ -12,4 +12,7 @@ Not just AI that chats. AI that decides, and accessible to non-operations resear
 - **Skills & Commands**: Custom workflows I've built to stay productive with GenAI.
 - **My Learnings**:  Experiments, frameworks I've stress-tested, dead ends, and what actually works when you push LLMs and solvers together.
 
+### Note
+My most recent prototype is "ftl-planning-langgraph", in which I combine previous learning with analysis of the LangGraph framework.
+
 **[LinkedIn](https://www.linkedin.com/in/marconimarques/)**
