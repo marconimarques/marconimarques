@@ -13,6 +13,6 @@ Not just AI that chats. AI that decides, and accessible to non-operations resear
 - **My Learnings**:  All my experiments, structures I've exhaustively tested, and what has worked for me when combining LLMs and solvers.
 
 ### Note
-My most recent prototype is "ftl-planning-langgraph-langchain", in which I combine previous learning with analysis of the LangGraph framework.
+My most recent prototype is [ftl-planning-langgraph-langchain](https://github.com/marconimarques/ftl-planning-langgraph-langchain), in which I combine previous learning with analysis of the LangGraph framework.
 
 **[LinkedIn](https://www.linkedin.com/in/marconimarques/)**
