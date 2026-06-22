@@ -15,4 +15,4 @@ Not just AI that chats. AI that decides, and accessible to non-operations resear
 ### Note
 My most recent prototype is [ftl-planning-langgraph-langchain](https://github.com/marconimarques/ftl-planning-langgraph-langchain), in which I combine previous learning with analysis of the LangGraph framework.
 
-**[LinkedIn](https://www.linkedin.com/in/marconimarques/)**
+
