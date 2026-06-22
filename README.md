@@ -10,7 +10,7 @@ Not just AI that chats. AI that decides, and accessible to non-operations resear
 
 - **Decision Support Prototypes**: Projects where you describe your scenario in plain English and get back an optimal answer. Real solvers, real decisions.
 - **Skills & Commands**: Custom workflows I've built to stay productive with GenAI.
-- **My Learnings**:  All my experiments, structures I've exhaustively tested, dead ends, and what has worked for me when combining LLMs and solvers.
+- **My Learnings**:  All my experiments, structures I've exhaustively tested, and what has worked for me when combining LLMs and solvers.
 
 ### Note
 My most recent prototype is "ftl-planning-langgraph-langchain", in which I combine previous learning with analysis of the LangGraph framework.
