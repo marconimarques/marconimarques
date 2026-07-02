@@ -8,7 +8,7 @@ AI that decides, and accessible to non-operations research professionals.
 
 ### What I share here
 
-- **Decision Support Prototypes**: Projects where you describe your scenario in plain English and get back an optimal answer. Real solvers, real decisions.
+- **Decision Support Prototypes**: Projects where you describe your scenario in plain English and get back an optimal answer. 
 - **Skills & Commands**: Custom workflows I've built to stay productive with GenAI.
 - **My Learnings**:  All my experiments, structures I have tested, and what has worked for me when combining LLMs and solvers.
 
