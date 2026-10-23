@@ -10,7 +10,7 @@ Mathematical optimization can help businesses make those decisions by finding be
 
 We describe the scenario, work through the options, just as we would with a coworker.
 
-That’s why I’m studying the intersection of LLMs and mathematical optimization. I’m exploring how natural language could make these tools accessible to more professionals, helping them turn everyday decisions into better business results.
+That’s why I’m studying the intersection of LLMs and mathematical optimization. I’m exploring how natural language could make these tools accessible to more professionals, helping them turn everyday decisions into better business results. I am one of these professionals.
 
 ### What I Share 
 Here, I share my experiments, my prototypes, and what I learn along the way.
