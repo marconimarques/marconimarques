@@ -6,7 +6,7 @@ When margins are tight, everyday decisions carry extra weight. A good decision m
 
 Mathematical optimization helps businesses find those improvements by making better use of their time, and resources. But using solvers usually requires specialist knowledge, putting these tools beyond the reach of many professionals who could benefit from them.
 
-**What if we could start with a conversation?**
+### What if we could start with a conversation?
 
 Describe your problem. Work through the options, as you would with a partner.
 
