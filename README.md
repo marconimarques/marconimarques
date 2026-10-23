@@ -1,17 +1,19 @@
 ### Hi there
 
-What if anyone could talk to a solver?
+The biggest winners of AI need not be the companies with the most engineers, the largest data teams, or the highest software budgets. They may be the companies with the lowest margins.
 
-That's the question I keep coming back to. It´s a pain point of mine. Then, I have been studying the intersection of LLMs and mathematical optimization seeking to figuring out how natural language can become the front door to powerful decision-making engines.
+When margins are tight, everyday decisions carry extra weight. A better delivery route, a smarter shift schedule, or less wasted material can make a real difference to profit.
 
-Optimization models that expand capabilities and are accessible to non-operations research professionals.
+Mathematical optimization helps businesses find those improvements by making better use of their time, and resources. But using solvers usually requires specialist knowledge, putting these tools beyond the reach of many professionals who could benefit from them.
 
-### What I share here
+**What if we could start with a conversation?**
 
-- **Decision Support Prototypes**: Projects where you describe your scenario in plain English and get back an optimal answer. 
-- **My Learnings**:  All my experiments, structures I have tested, and what has worked for me when combining LLMs and solvers.
+Describe your problem. Work through the options, as you would with a partner.
 
-### Note
+That’s why I’m studying the intersection of LLMs and mathematical optimization: to explore how natural language could make these tools accessible to more people, and help them turn better everyday decisions into better business results.
+
+### What I Share 
+Here, I share my experiments, my prototypes, and what I learn along the way.
 My most recent prototype is [Full-Truckload (FTL) Planning with LangGraph](https://github.com/marconimarques/ftl-planning-langgraph-langchain), in which I combine previous learning with analysis of the LangGraph framework.
 
 
