@@ -1,6 +1,6 @@
 ### Hi there
 
-The biggest winners of AI need not be the companies with the most engineers, the largest data teams, or the highest software budgets. They may be the companies with the lowest margins.
+The biggest winners of AI need not be the companies with the highest software budgets. They may be the companies with the lowest margins.
 
 When margins are tight, everyday decisions carry extra weight. Better decisions can mean lower costs, less waste, and more profit.
 
