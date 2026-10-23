@@ -8,7 +8,7 @@ Mathematical optimization helps businesses find those improvements by making bet
 
 ### What if we could start with a conversation?
 
-Describe your problem. Work through the options, as you would with a partner.
+Describe your problem, work through the options, as you would with a partner.
 
 That’s why I’m studying the intersection of LLMs and mathematical optimization: to explore how natural language could make these tools accessible to more people, and help them turn better everyday decisions into better business results.
 
