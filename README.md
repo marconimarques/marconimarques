@@ -2,7 +2,7 @@
 
 The biggest winners of AI need not be the companies with the most engineers, the largest data teams, or the highest software budgets. They may be the companies with the lowest margins.
 
-When margins are tight, everyday decisions carry extra weight. A better delivery route, a smarter shift schedule, or less wasted material can make a real difference to profit.
+When margins are tight, everyday decisions carry extra weight. A good decision making can promote a real difference to profit.
 
 Mathematical optimization helps businesses find those improvements by making better use of their time, and resources. But using solvers usually requires specialist knowledge, putting these tools beyond the reach of many professionals who could benefit from them.
 
