@@ -14,6 +14,6 @@ That’s why I’m studying the intersection of LLMs and mathematical optimizati
 
 ### What I Share 
 Here, I share my experiments, my prototypes, and what I learn along the way.
-My most recent prototype is [Full-Truckload (FTL) Planning with LangGraph](https://github.com/marconimarques/ftl-planning-langgraph-langchain).
+As the latest prototype, take a look at [Full-Truckload (FTL) Planning with LangGraph](https://github.com/marconimarques/ftl-planning-langgraph-langchain).
 
 
