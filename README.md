@@ -13,7 +13,7 @@ We describe the scenario, work through the options, just as we would with a cowo
 That’s why I’m studying the intersection of LLMs and mathematical optimization. I’m exploring how natural language could make these tools accessible to more professionals, helping them turn everyday decisions into better business results. 
 
 ### What I Share 
-Here, I share my experiments, my prototypes, and what I learn along the way.
+Here, I share what I learn along the way.
 As the latest prototype, take a look at [Full-Truckload (FTL) Planning with LangGraph](https://github.com/marconimarques/ftl-planning-langgraph-langchain).
 
 
